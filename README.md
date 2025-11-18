@@ -12,12 +12,5 @@ The data will be made public upon publication.
 
 Please cite our preprint: TODO: INSERT BIOARVIX LINK
 
-## Figures
-
-To find the code for a specific figure/table, have a look at this overview table:
-
-| Figure/Table | Script path |
-| ------------ | ----------- |
-| Figure 1a,b,c | |
 
 
