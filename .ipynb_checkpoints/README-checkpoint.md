@@ -2,6 +2,7 @@
 
 This repo contains all analysis scripts of the manuscript "**Brain Region-Specific Oligodendrocyte States Highlight Mitochondrial Gene Upregulation and Loss of Canonical Identity Signatures in Alzheimer’s Disease**" by Drummer et al. 
 
+![Data overview](https://github.com/Jaekellab/human_AD_snRNAseq/tree/main/illustration/data_overview.png?raw=true)
 
 ## Datasest
 
