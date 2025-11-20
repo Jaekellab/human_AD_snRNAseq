@@ -1,8 +1,8 @@
-# human_AD_snRNAseq
+# Human AD and Ctrl snRNA-seq and visium data across cortical areas
 
 This repo contains all analysis scripts of the manuscript "**Brain Region-Specific Oligodendrocyte States Highlight Mitochondrial Gene Upregulation and Loss of Canonical Identity Signatures in Alzheimer’s Disease**" by Drummer et al. 
 
-![Data overview](https://github.com/Jaekellab/human_AD_snRNAseq/tree/main/illustration/data_overview.png?raw=true)
+![Data overview](illustration/data_overview.png)
 
 ## Datasest
 
@@ -12,12 +12,5 @@ The data will be made public upon publication.
 
 Please cite our preprint: TODO: INSERT BIOARVIX LINK
 
-## Figures
-
-To find the code for a specific figure/table, have a look at this overview table:
-
-| Figure/Table | Script path |
-| ------------ | ----------- |
-| Figure 1a,b,c | |
 
 
